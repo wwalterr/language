@@ -1,4 +1,10 @@
+# Cache
 .ipynb_checkpoints
-.vscode
 .ipy
+__pycache__
+
+# Editor
+.vscode
+
+# Environment
 .env
