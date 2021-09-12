@@ -1,10 +1,14 @@
-# Cache
-.ipynb_checkpoints
-.ipy
-__pycache__
-
 # Editor
 .vscode
 
 # Environment
-.env
+venv
+
+# Assets
+assets/images/test/result.jpg
+
+# Cache
+__pycache__
+cache_dir
+.ipynb_checkpoints
+.ipy
