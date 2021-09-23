@@ -47,8 +47,6 @@ jupyter lab
 
 Place your text in _data.raw_ and run the _generator.ipynb_ notebook.
 
-The default text is the Blade Runner and Blade Runner 2049 transcript.
-
 To change the LSTM settings go to the notebook section "training".
 
 ## Contributing
