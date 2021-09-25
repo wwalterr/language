@@ -45,7 +45,7 @@ Start a Jupyter Lab server.
 jupyter lab
 ```
 
-Place your text in _data.raw_ and run the _generator.ipynb_ notebook.
+Place your text in _data.raw_ and run the _generator.ipynb_ notebook, by default the dataset is composed of [quotes](https://www.kaggle.com/akmittal/quotes-dataset).
 
 To change the LSTM settings go to the notebook section "training".
 
