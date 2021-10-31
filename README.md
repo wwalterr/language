@@ -1,10 +1,10 @@
 # Language
 
-Generate text using LSTM.
+Generate quotes using LSTM.
 
 ## About
 
-Generate text using the Neural Network architecture LSTM.
+Generate quotes using the Neural Network architecture LSTM.
 
 ## Built with
 
