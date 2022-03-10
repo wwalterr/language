@@ -1,10 +1,10 @@
 # Language
 
-Generate quotes using LSTM.
+Generate philosophical quotes using LSTM.
 
 ## About
 
-Generate quotes using the Neural Network architecture LSTM.
+Generate philosophical quotes using the Neural Network architecture LSTM.
 
 ## Built with
 
