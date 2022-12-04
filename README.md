@@ -1,10 +1,10 @@
 # Language
 
-Generate philosophical quotes using LSTM.
+Philosophical quotes from AI using LSTM.
 
 ## About
 
-Generate philosophical quotes using the Neural Network architecture LSTM.
+Philosophical quotes from AI using the Neural Network architecture LSTM along with a famous quotes dataset from philosophers.
 
 ## Built with
 
