@@ -1,5 +1,5 @@
 wheel==0.38.1
 setuptools==65.5.1
-jupyterlab==3.1.11
+jupyterlab==3.6.7
 torch==1.9.0
 numpy==1.22.0
